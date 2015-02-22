@@ -1,4 +1,4 @@
-This tis the main repository of the KOMODO Robot project under the supervision 
+This is the main repository of the KOMODO Robot project under the supervision 
 of Prof. Ronen Brafman from Ben Gurion University of the Negev
 
 pre-required instalations:

@@ -1,0 +1,7 @@
+git status (checks for files changes)
+git add (*file*) (setup file for commiting)
+git commit -m "(*message*)" (setup file for pushing to server)
+git push origin master (send the files to be stored in server)
+
+// to add a new folder to the computer (command for students)
+git clone (*URL address from github.com*) 
